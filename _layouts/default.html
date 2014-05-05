@@ -31,7 +31,8 @@
         </section>
 
         <aside id="sidebar">
-        {% include sidebar.html %}
+        {% capture sidebar %}{% include sidebar.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
         </aside>
       </div>
     </div>
