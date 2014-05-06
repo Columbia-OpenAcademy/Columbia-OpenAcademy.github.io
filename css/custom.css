@@ -1,0 +1,45 @@
+div.jumbotron {
+  background: #2e7bcf 0 0;
+}
+div.jumbotron h1 {
+  color: white;
+  font-size: 55px;
+  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  margin: 1em auto 2em auto;
+  font-weight: normal;
+  letter-spacing: -1px;
+}
+div.jumbotron h2 {
+  color: #9ddcff;
+  font-size: 26px;
+  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  margin: 3em auto auto auto;
+}
+
+a.button-github {
+  background: transparent url(../images/github-button.png) 0 0 no-repeat;
+  color: #fff;
+  display: block;
+  font-family: 'Helvetica Neue', Helvetica, Arial, serif; 
+  font-size: 23px;
+  height: 80px;
+  line-height: 1.2;
+  padding-left: 68px;
+  padding-top: 22px;
+  position: absolute;
+  right: 30px;
+  top: 30px;
+  width: 202px;
+  margin: 0;
+}
+a.button-github small {
+  display: block;
+  font-size: 11px;
+}
+
+.img-logo {
+  margin-right: 15px;
+  margin-top: 10px;
+  width: 75px;
+  height: 75px;
+ }

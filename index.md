@@ -1,7 +1,7 @@
 ---
 title: OpenAcademy at Columbia University
 tagline: Twelve Projects. Six Students. All Open Source
-layout: default
+layout: home
 ---
 
 # What's OpenAcademy? #
@@ -11,8 +11,6 @@ projects in the open source community. In OpenAcademy's first run at Columbia
 our students have worked all semester with teams around the world to bring fixes
 and features to real open source projects. Come by our presentation day to check
 them out!
-
-## Presentation Day ##
 
  - **When**: Wednesday May 14th, 11am-2pm
  - **Where**: Computer Science Lounge (4th Floor Mudd)
