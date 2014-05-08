@@ -5,5 +5,5 @@
  - 11:40am [OpenStack](http://columbia-openacademy.github.io/openstack.html)
  - 12:00pm [Firefox OS](http://columbia-openacademy.github.io/firefoxOS.html)
  - 12:20pm Lunch Break
- - 1:20pm [Socket.io](http://columbia-openacademy.github.io/socketio.html)
- - 1:40pm [OpenBadges](http://columbia-openacademy.github.io/openbadges.html)
+ - 1:00pm [Socket.io](http://columbia-openacademy.github.io/socketio.html)
+ - 1:20pm [OpenBadges](http://columbia-openacademy.github.io/openbadges.html)
