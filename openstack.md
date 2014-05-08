@@ -5,4 +5,4 @@ summary: Adding Two Factor Authentication for Openstack
 contributors: Tim Paine
 logo: images/openstack-logo.png
 ---
-Stuff
+Coming Soon...

@@ -1,8 +1,8 @@
 ---
 title: Firefox OS
 layout: project
-summary: TODO
-contributors: TODO
+summary: Coming soon...
+contributors: Giovanni Ortuño, Tanay Jaipuria
 logo: images/open-icon.png
 ---
 TODO
