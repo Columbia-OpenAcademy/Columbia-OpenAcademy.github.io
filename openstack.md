@@ -1,7 +1,7 @@
 ---
 title: OpenStack Two Factor Authentication 
 layout: project
-summary: Adding Two Factor Authentication for Openstack
+summary: Adding Two Factor Authentication for Openstack's Keystone authentication service, and building this functionality into the Horizon front-end dashboard service.
 contributors: Tim Paine
 logo: images/openstack-logo.png
 ---
