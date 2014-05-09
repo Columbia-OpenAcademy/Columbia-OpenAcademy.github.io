@@ -13,7 +13,7 @@ What is Firefox OS?
  - Uses open standards: HTML5 applications, Javascript, open web API’s.
  - Targeted to users of developing countries
 
-What?
+What was our goal?
 -----
 Add a feature to the OS so that one can send applications to other devices over NFC and Bluetooth.
 
