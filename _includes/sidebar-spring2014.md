@@ -1,4 +1,4 @@
-### Presentation Day Schedule
+### Spring 2014 Presentation Day Schedule
 
  - 11:00am [Orion](http://columbia-openacademy.github.io/orion.html)
  - 11:20am [HHVM](http://columbia-openacademy.github.io/hhvm.html)

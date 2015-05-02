@@ -1,6 +1,10 @@
       </div>
       <div class="col-md-4">
-        {% capture sidebar %}{% include sidebar.md %}{% endcapture %}
+        {% if page.url contains "/spring2014/" %}
+          {% capture sidebar %}{% include sidebar-spring2014.md %}{% endcapture %}
+        {% else %}
+          {% capture sidebar %}{% include sidebar-spring2015.md %}{% endcapture %}
+        {% endif %}
         {{ sidebar | markdownify }}
       </div>
   </body>
