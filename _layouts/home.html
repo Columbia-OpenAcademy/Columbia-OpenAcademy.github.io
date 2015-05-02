@@ -2,13 +2,13 @@
 {{ content }}
 <h2>Projects</h2>
 {% for project in site.pages do %}
-{% if project.layout == "project" %} 
-<div>
-  <h3><a href="{{ project.url }}">{{ project.title }}</a>
-    <br/><small><em>{{ project.contributors }}</em></small></h3>
-  <img class="pull-left img-responsive img-rounded img-logo" src="{{ project.logo }}" />
-  <p class="clearfix">{{ project.summary }}</p>
-</div>
-{% endif %}
+  {% if project.layout == "project" %} 
+    <div>
+      <h3><a href="{{ project.url }}">{{ project.title }}</a>
+        <br/><small><em>{{ project.contributors }}</em></small></h3>
+      <img class="pull-left img-responsive img-rounded img-logo" src="{{ project.logo }}" />
+      <p class="clearfix">{{ project.summary }}</p>
+    </div>
+  {% endif %}
 {% endfor %}
 {% include footer.html %}

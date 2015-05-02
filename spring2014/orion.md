@@ -3,7 +3,7 @@ title: Eclipse Orion
 layout: project
 summary: Eclipse Orion is a web based editor that takes advantage of the tools available in modern browsers to make development of web-based projects, particularly those using node.js, a breeze. Orion features a text editor with syntax highlighting, live preview of web pages, and access node.js functionality such as npm and node commands for in-browser development.
 contributors: Jonathan Balsano, Kaitlin Huben, Melody Ju
-logo: images/orion-logo.png
+logo: /images/orion-logo.png
 ---
 Eclipse Orion is a web based editor that takes advantage of the tools available in modern browsers to make development of web-based projects, particularly those using node.js, a breeze. Orion features a text editor with syntax highlighting, live preview of web pages, and access node.js functionality such as npm and node commands for in-browser development.
 
