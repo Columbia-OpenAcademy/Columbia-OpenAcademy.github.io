@@ -2,7 +2,7 @@
 title: MongoDB
 layout: project
 summary: Ruby on Rails is an open source web application framework written in Ruby. It's a powerful, full stack framework that practices the MVC paradigm and is extremely popular to its quick bootstrapping, solid libraries/gem support, and Convention over Configuration utilization that results in the ability for Rails developers to quickly jump into any other Rails application codebase.
-contributors: Brian Trippe, Riaz Helfer, Nitesh Menon
+contributors: Brian Trippe, Nitesh Menon, Riaz Helfer
 logo: /images/mongodb-logo.png
 tag: spring2015
 ---
