@@ -7,7 +7,7 @@ layout: home
 # What's OpenAcademy? #
 
 OpenAcademy is a program that sets current college students up with mentors and
-projects in the open source community. In OpenAcademy's semester at Columbia
+projects in the open source community. In OpenAcademy's first run at Columbia
 our students have worked all semester with teams around the world to bring fixes
 and features to real open source projects. 
 

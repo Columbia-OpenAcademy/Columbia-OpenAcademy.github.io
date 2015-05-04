@@ -8,3 +8,4 @@
  - 1:00pm [Socket.io](/spring2014/socketio.html)
  - 1:20pm [OpenBadges](/spring2014/openbadges.html)
 
+#### Back to current projects [here](/index.html)!

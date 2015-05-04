@@ -2,13 +2,31 @@
 {{ content }}
 <h2>Projects</h2>
 {% for project in site.pages do %}
-  {% if project.layout == "project" %} 
-    <div>
-      <h3><a href="{{ project.url }}">{{ project.title }}</a>
-        <br/><small><em>{{ project.contributors }}</em></small></h3>
-      <img class="pull-left img-responsive img-rounded img-logo" src="{{ project.logo }}" />
-      <p class="clearfix">{{ project.summary }}</p>
-    </div>
-  {% endif %}
+	{% if page.url contains "/spring2014/" %}
+		{% if project.tag == "spring2014" %}
+			{% if project.layout == "project" %} 
+			    <div>
+			      <h3><a href="{{ project.url }}">{{ project.title }}</a>
+			        <br/><small><em>{{ project.contributors }}</em></small></h3>
+			      <img class="pull-left img-responsive img-rounded img-logo" src="{{ project.logo }}" />
+			      <p class="clearfix">{{ project.summary }}</p>
+			      <br>
+			    </div>
+		  	{% endif %}
+	 	{% endif %}
+	{% else %}
+		{% if project.tag == "spring2015" %}
+			{% if project.layout == "project" %} 
+			    <div>
+			      <h3><a href="{{ project.url }}">{{ project.title }}</a>
+			        <br/><small><em>{{ project.contributors }}</em></small></h3>
+			      <img class="pull-left img-responsive img-rounded img-logo" src="{{ project.logo }}" />
+			      <p class="clearfix">{{ project.summary }}</p>
+			      <br>
+			    </div>
+		  	{% endif %}
+	 	{% endif %}
+  	{% endif %}
+
 {% endfor %}
 {% include footer.html %}

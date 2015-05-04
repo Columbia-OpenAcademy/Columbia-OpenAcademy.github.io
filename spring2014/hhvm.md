@@ -4,6 +4,7 @@ layout: project
 summary: HHVM is a high-performance open-source PHP implementation initially developed by Facebook to meet its own performance needs, and later open-sourced. It compiles PHP code into intermediate bytecode which is then compiled at runtime using a just-in-time compiler. HHVM offers significant CPU and memory utilization improvements while maintaining a high level of compatibility with existing PHP code.
 contributors: Daniel Negulescu
 logo: /images/hhvm-logo.png
+tag: spring2014
 ---
 HHVM is a high-performance open-source PHP implementation initially developed by Facebook to meet its own performance needs, and later open-sourced. It compiles PHP code into intermediate bytecode which is then compiled at runtime using a just-in-time compiler. HHVM offers significant CPU and memory utilization improvements while maintaining a high level of compatibility with existing PHP code.
 
