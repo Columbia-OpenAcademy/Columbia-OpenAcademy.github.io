@@ -1,6 +1,6 @@
 ---
 title: OpenAcademy at Columbia University
-tagline: Twelve Projects. Six Students. All Open Source.
+tagline: Twelve Students. Five Projects. All Open Source.
 layout: home
 ---
 
