@@ -6,9 +6,12 @@ contributors: Chae Jubb, Sireesh Gururaja
 logo: /images/redis-logo.png
 tag: spring2015
 ---
+
+Redis provides a base feature set from which a graph database engine can be built efficiently. Redis is a data-structure server, providing blazingly fast read/write speeds. It has mature support for asynchronous replication that forms the backbone of highly available and reliable systems. Benchmarks and some initial tests demonstrate that Redis is a good choice for such a graph search and analysis engine.  
+
 We consider the existing Apache Solr.  On top of this Apache Solr search
 engine, we add features for a graph database.  That graph database is backed
-by Redis, a data-structure server.  By integeating with Solr, we are able to
+by Redis, a data-structure server.  By integrating with Solr, we are able to
 add graph-search functionality to an already-existing search engine by
 simply adding a few search query modifiers.  With this new search feature,
 we are able to search a traditional databse alongside a new graph database.
